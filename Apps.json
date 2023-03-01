@@ -4,9 +4,9 @@
       "AppName": "Arcade Desktop",
       "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/desktop_480px.png",
       "AppDescription": "Runs script that opens Arcade Desktop",
-      "AppGFNIssues": "Idk if this works if it doesnt jus use arcade V5",
+      "AppGFNIssues": "Idk if this works if it doesnt jus use arcade V6",
       "AppGFNStatus": "Safe",
-      "AppDownloadUrl": "https://www.dropbox.com/s/gmckos0bl46v7x9/WinXShell.zip?dl=1",
+      "AppDownloadUrl": "https://cdn.discordapp.com/attachments/1078666423703965826/1080620652169527336/WinXShell.zip",
       "AppExe": "\\WinxShell\\WinxShell\\start.bat",
       "AppArguments": "-Desktop",
       "AppUpdateLog": "11/15/2022\n-------------------------------\nAdded Desktop With Background and Start menu support"
