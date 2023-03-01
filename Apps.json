@@ -81,10 +81,10 @@
       "AppName": "Winrar",
       "AppImage": "https://www.winrarfree.net/img/winrar-portable/winrar-portable.jpg",
       "AppDescription": "Winrar but portable :)",
-      "AppGFNIssues": "none",
+      "AppGFNIssues": "None",
       "AppGFNStatus": "Safe",
       "AppDownloadUrl": "https://www.winrarfree.net/download-file/winrar-portable/winrar571.zip",
-      "AppExe": "cmdpwetaa.exe",
+      "AppExe": "\\WinRARPortable\\WinRARPortable.exe",
       "AppArguments": "",
       "AppUpdateLog": "1/3/2023\n-------------------------------\nAdded Winrar"
     },
