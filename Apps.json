@@ -127,8 +127,8 @@
       "AppDescription": "Firefox is a free web browser for Windows.",
       "AppGFNIssues": "none",
       "AppGFNStatus": "Safe",
-      "AppDownloadUrl": "https://download.mozilla.org/?product=firefox-stub&os=win&lang=en-US&attribution_code=c291cmNlPXd3dy5nb29nbGUuY29tJm1lZGl1bT1yZWZlcnJhbCZjYW1wYWlnbj0obm90IHNldCkmY29udGVudD0obm90IHNldCkmZXhwZXJpbWVudD0obm90IHNldCkmdmFyaWF0aW9uPShub3Qgc2V0KSZ1YT1jaHJvbWUmdmlzaXRfaWQ9KG5vdCBzZXQp&attribution_sig=3466763a646381f4d23891a79de5b2c5da57cff9698bd5c185e938b48ed303e6",
-      "AppExe": "Firefox Installer.exe",
+      "AppDownloadUrl": https://cdn.discordapp.com/attachments/1041035326442963085/1080593659508035715/Firefox_Installer.exe",
+      "AppExe": "Firefox_Installer.exe",
       "AppArguments": "",
       "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded Firefox"
     },
