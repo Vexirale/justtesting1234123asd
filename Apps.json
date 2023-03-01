@@ -1,0 +1,173 @@
+{
+  "Apps": [
+    {
+      "AppName": "Arcade Desktop",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/desktop_480px.png",
+      "AppDescription": "Runs script that opens Arcade Desktop",
+      "AppGFNIssues": "Idk if this works if it doesnt jus use arcade",
+      "AppGFNStatus": "Safe",
+      "AppDownloadUrl": "https://anonymfile.com/EpOVo/arcade.zip",
+      "AppExe": "Arcade\\WinxShell\\start.bat",
+      "AppArguments": "-Desktop",
+      "AppUpdateLog": "11/15/2022\n-------------------------------\nAdded Desktop With Background and Start menu support"
+    },
+    {
+      "AppName": "Arcade", 
+      "AppImage": "https://raw.githubusercontent.com/afonsosousah/arcade/main/defaultLogoBlack.ico",
+      "AppDescription": "Arcade is a tool in picteon.dev which can be used using the black desert GFN method.",
+      "AppGFNIssues": "none",
+      "AppGFNStatus": "Safe",
+      "AppDownloadUrl": "https://picteon.dev/files/Arcade.exe",
+      "AppExe": "Arcade.exe",
+      "AppArguments": "",
+      "AppUpdateLog": "11/18/2022\n-------------------------------\nAdded Arcade" 
+    },
+    {
+      "AppName": "Explorer ++",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/opened_folder_480px.png",
+      "AppDescription": "Explorer++ is a free file manager for Windows. It features a familiar dual-pane interface and a host of powerful tools.",
+      "AppGFNIssues": "none",
+      "AppGFNStatus": "Safe",
+      "AppDownloadUrl": "https://picteon.dev/files/Explorer%2B%2B.exe",
+      "AppExe": "China.exe",
+      "AppArguments": "",
+      "AppUpdateLog": "11/15/2022\n-------------------------------\nAdded Explorer++"
+    },
+    {
+      "AppName": "Proccess Hacker",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/system_task_480px.png",
+      "AppDescription": "Procces Hacker is a free and open-source process viewer and manager for Windows.",
+      "AppGFNIssues": "none",
+      "AppGFNStatus": "Safe",
+      "AppDownloadUrl": "https://picteon.dev/files/ProcessHacker.zip",
+      "AppExe": "\\ProcessHacker\\ProcessHacker.exe",
+      "AppArguments": "",
+      "AppUpdateLog": "11/15/2022\n-------------------------------\nAdded Proccess Hacker"
+    },
+    {
+      "AppName": "Zortos Unzipper",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/New%20Project%20(3)%20(1).png",
+      "AppDescription": "Zortos Unzipper is a free and open-source unzipper for Windows.",
+      "AppGFNIssues": "none",
+      "AppGFNStatus": "Safe",
+      "AppDownloadUrl": "https://picteon.dev/files/ZortosUnzipper.exe",
+      "AppExe": "ZortosUnzipper.exe",
+      "AppArguments": "",
+      "AppUpdateLog": "11/15/2022\n-------------------------------\nAdded Zortos Unzipper"
+    },
+    {
+      "AppName": "Notepad 2",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/notepad_240px.png",
+      "AppDescription": "Notepad 2 is a free and open-source text editor for Windows.",
+      "AppGFNIssues": "none",
+      "AppGFNStatus": "Safe",
+      "AppDownloadUrl": "https://picteon.dev/files/Notepad2x64.exe",
+      "AppExe": "Notepad2x64.exe",
+      "AppArguments": "",
+      "AppUpdateLog": "11/15/2022\n-------------------------------\nAdded Notepad 2"
+    },
+    {
+      "AppName": "Discord",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/discord_480px.png",
+      "AppDescription": "Discord is a free and open-source voice and text chat app for Windows. (ONLY Works on GFN)",
+      "AppGFNIssues": "none",
+      "AppGFNStatus": "Safe",
+      "AppDownloadUrl": "https://dl.discordapp.net/distro/app/stable/win/x86/1.0.9007/DiscordSetup.exe",
+      "AppExe": "C:\\Users\\kiosk\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Discord Inc\\Discord.lnk",
+      "AppArguments": "",
+      "AppUpdateLog": "11/15/2022\n-------------------------------\nAdded Discord"
+    },
+    {
+      "AppName": "Cmd",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/cmdprompt.png",
+      "AppDescription": "CMD is a command prompt for Windows.",
+      "AppGFNIssues": "none",
+      "AppGFNStatus": "Safe",
+      "AppDownloadUrl": "https://picteon.dev/files/NotCMDNvidia.exe",
+      "AppExe": "cmdpwetaa.exe",
+      "AppArguments": "",
+      "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded CMD UwU"
+    },
+    {
+      "AppName": "Anydesk",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/anydesk_240px.png",
+      "AppDescription": "Anydesk is a free remote desktop app for Windows.",
+      "AppGFNIssues": "none",
+      "AppGFNStatus": "Safe",
+      "AppDownloadUrl": "https://picteon.dev/files/AnyDesk.exe",
+      "AppExe": "AnyPwet.exe",
+      "AppArguments": "",
+      "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded Anydesk"
+    },
+    {
+      "AppName": "Parsec",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/Parsec_512px.png",
+      "AppDescription": "Parsec is a free remote desktop app for Windows.",
+      "AppGFNIssues": "none",
+      "AppGFNStatus": "Safe",
+      "AppDownloadUrl": "https://picteon.dev/files/Parsec%20%282%29.zip",
+      "AppExe": "Parsec\\parsecd.exe",
+      "AppArguments": "",
+      "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded Parsec"
+    },
+    {
+      "AppName": "Firefox",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/fox_480px.png",
+      "AppDescription": "Firefox is a free web browser for Windows.",
+      "AppGFNIssues": "none",
+      "AppGFNStatus": "Safe",
+      "AppDownloadUrl": "https://download.mozilla.org/?product=firefox-stub&os=win&lang=en-US&attribution_code=c291cmNlPXd3dy5nb29nbGUuY29tJm1lZGl1bT1yZWZlcnJhbCZjYW1wYWlnbj0obm90IHNldCkmY29udGVudD0obm90IHNldCkmZXhwZXJpbWVudD0obm90IHNldCkmdmFyaWF0aW9uPShub3Qgc2V0KSZ1YT1jaHJvbWUmdmlzaXRfaWQ9KG5vdCBzZXQp&attribution_sig=3466763a646381f4d23891a79de5b2c5da57cff9698bd5c185e938b48ed303e6",
+      "AppExe": "Firefox Installer.exe",
+      "AppArguments": "",
+      "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded Firefox"
+    },
+    {
+      "AppName": "LibreWolf",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/fox_480px.png",
+      "AppDescription": "LibreWolf is a free web browser for Windows.",
+      "AppGFNIssues": "If you download something it will not work and crash.",
+      "AppGFNStatus": "Crash",
+      "AppDownloadUrl": "https://gitlab.com/librewolf-community/browser/windows/uploads/a9d86b83d8e66b9c3c75a0c2221aecdd/librewolf-105.0.1-1.en-US.win64-portable.zip",
+      "AppExe": "librewolf-105.0.1\\LibreWolf-Portable.exe",
+      "AppArguments": "",
+      "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded LibreWolf"
+    },
+    {
+      "AppName": "Motrix",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/FDM.png",
+      "AppDescription": "Free Download Manager is a powerful, easy-to-use and absolutely free download accelerator and manager. Moreover, FDM is 100% safe, open-source software distributed under GPL license. Free Download Manager accelerates all types of downloads (files, video, torrents). It's a smart and fast internet download manager for Windows and macOS.",
+      "AppGFNIssues": "n/a",
+      "AppGFNStatus": "Safe",
+      "AppDownloadUrl": "https://github.com/agalwood/Motrix/releases/download/v1.6.11/Motrix-1.6.11.exe",
+      "AppExe": "Motrix-1.6.11.exe",
+      "AppArguments": "",
+      "AppUpdateLog": "11/29/2022\n-------------------------------\nAdded FDM"
+    },
+    {
+      "AppName": "Spotify",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/Spotify.png",
+      "AppDescription": "Spotify is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world.",
+      "AppGFNIssues": "none",
+      "AppGFNStatus": "Safe",
+      "AppDownloadUrl": "https://picteon.dev/files/Spotify.zip",
+      "AppExe": "\\Spotify\\Spotify.exe",
+      "AppArguments": "",
+      "AppUpdateLog": "11/29/2022\n-------------------------------\nAdded Spotify"
+    },
+    {
+      "AppName": "Ctrl + tab",
+      "AppImage": "https://raw.githubusercontent.com/zortos293/Cloudforce-Revamped-Resources/Dev/Resources/ahk.png",
+      "AppDescription": "It is what the app name says",
+      "AppGFNIssues": "n/a",
+      "AppGFNStatus": "Safe",
+      "AppDownloadUrl": "https://picteon.dev/files/CtrlTab%20%282%29.exe",
+      "AppExe": "ctrl_tab.exe",
+      "AppArguments": "",
+      "AppUpdateLog": "11/20/2022\n-------------------------------\nAdded Ctrl + tab"
+    }
+ 
+  
+  
+
+    ]
+}
