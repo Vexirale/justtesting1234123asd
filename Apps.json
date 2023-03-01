@@ -127,7 +127,7 @@
       "AppDescription": "Firefox is a free web browser for Windows.",
       "AppGFNIssues": "none",
       "AppGFNStatus": "Safe",
-      "AppDownloadUrl": https://cdn.discordapp.com/attachments/1041035326442963085/1080593659508035715/Firefox_Installer.exe",
+      "AppDownloadUrl": "https://cdn.discordapp.com/attachments/1041035326442963085/1080593659508035715/Firefox_Installer.exe",
       "AppExe": "Firefox_Installer.exe",
       "AppArguments": "",
       "AppUpdateLog": "11/16/2022\n-------------------------------\nAdded Firefox"
