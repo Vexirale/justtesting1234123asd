@@ -34,7 +34,7 @@
         "GameSize": "250 MB",
         "GameDownloadCloudURL": "",
         "GameDownloadURL": "https://setup.rbxcdn.com/version-0b123e0533b6441b-Roblox.exe",
-        "GameExe": "Roblox\\Versions\\version-0b123e0533b6441\\RobloxPlayerLauncher.exe",
+        "GameExe": "RobloxPlayerLauncher.exe",
         "GameArguments": "",
         "GameUpdateLog": "11/20/2022\n-------------------------------\nAdded Roblox",
         "GamePaid": false
